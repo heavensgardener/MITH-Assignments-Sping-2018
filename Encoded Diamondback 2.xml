@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro on campus</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>published on 1967 - 01 - 05, written by Hollace Goldberg as the first part of a series that tracks the history of the Negro at the university</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Diamondback, College Park MD</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+        <p>The history of the Negro at the
+        <choice><orig>Univer-<lb break="no"/>sity</orig><reg>University</reg></choice>
+        unfolds with awesome slowness. It <lb/>
+        evolves over a 20-year period in which <lb/>
+        court suits, financial strains and public <lb/>
+        opinion gradually open the campus gates <lb/>
+        to black Americans.</p>
+
+        <p>The first Negro to attend the University <lb/>
+        was <persName><forename>Donald</forename> Gaines <surname>Murray</surname></persName>. A graduate <lb/>
+        of <placeName>Amherst</placeName>, <persName><surname>Murray</surname></persName> applied to the
+        <choice>
+          <orig>
+            Uni-<lb break="no"/>versity
+          </orig>
+          <reg>
+            University
+          </reg>
+        </choice>
+        Law School in 1935. By 1936 he <lb/>
+        was accepted. The year's delay in
+        <persName><surname><choice><orig>Mur-<lb break="no"/>ray</orig><reg>Murray</reg></choice></surname></persName>
+        's acceptance was due to a detour his <lb/>
+        application took -- a detour through the <lb/>
+        state <orgName>Attorney General's office</orgName> and the <lb/>
+        <orgName>Circuit Court of Appeals</orgName>.</p>
+
+        <p>In 1935, <persName><surname>Murray</surname></persName> was initially refused <lb/>
+        admission to the University but offered <lb/>
+        a scholarship to <orgName>Howard University</orgName> in <lb/>
+        <placeName>Washington, D.C.</placeName>, if he were accepted <lb/>
+        there. <persName><surname>Murray</surname></persName> declined the scholarship <lb/>
+        offer, and instead sued the Board of
+        <choice><orig>Re-<lb break="no"/>gents</orig><reg>Regents</reg></choice>
+        for denying him admission
+        <choice><orig>"be-<lb break="no"/>cause</orig><reg>because</reg></choice>
+        of his color.</p>
+
+        <p>In court, the University conceded that <lb/>
+        <persName><surname>Murray</surname></persName> was denied admission because of <lb/>
+        his race. Education in the state had
+        <choice><orig>fol-<lb break="no"/>lowed</orig><reg>followed</reg></choice>
+        a separate but equal, bi-racial <lb/>
+        policy. Provisions for members of the <lb/>
+        Negro race to be sent by scholarship to <lb/>
+        professional schools outside the state <lb/>
+        were made. The University President <lb/>
+        <persName><forename full= "abb"> H. C.</forename> <surname>Byrd</surname></persName> further added that a
+        "<choice><orig>finan-<lb break="no"/>cial</orig><reg>financial</reg></choice>
+        risk" would be involved in accepting <lb/>
+        Negroes, for if Negroes were admitted <lb/>
+        to the state university, it was projected <lb/>
+        that many students would withdraw.</p> <cb n= "1"/>
+
+
+         <p>Defendant <persName><surname>Murray</surname></persName>, however, contended <lb/>
+         that a law education received at Howard <lb/>
+         would not be equal nor comparable to a <lb/>
+         law education gained at the University. <lb/>
+         <persName><surname>Murray</surname></persName> intended to practice law in
+         <placeName><choice><orig>Bal-<lb break="no"/>timore</orig><reg>Baltimore</reg></choice></placeName>
+         City, and the University legal <lb/>
+         curriculum included special courses in <lb/>
+         Maryland law. If he attended <orgName>oward</orgName>H, <lb/>
+         <persName><surname>Murray</surname></persName> felt he would be at a
+         <choice><orig>disadvan-<lb break="no"/>tage</orig><reg>disadvantage</reg></choice>
+         when competing in a <placeName>Baltimore</placeName> <lb/>
+         court with white lawyers schooled in the <lb/>
+         state.</p>
+
+         <p>On the grounds that <persName>Murray</persName> had been <lb/>
+         denied admission to the University <lb/>
+         due only to the color of his skin, a violation <lb/>
+         of the Fourteenth Amendment was
+         <choice><orig>de-<lb break="no"/>clared</orig><reg>declared</reg></choice>
+         by the Court. <persName><surname>Murray</surname></persName> was
+         ad- mitted
+         to the University's Law School in <lb/>
+         fall, 1936.</p>
+
+         <p><title>Three Negroes by 1936</title></p>
+
+         <p><persName><surname>Murray</surname></persName>'s bold and successful court <lb/>
+         fight signalled the start of other Negro <lb/>
+         advances to the gates of the University. <lb/>
+         The law school began receiving--and <lb/>
+         accepting--other Negro applications, and <lb/>
+         by 1939 there were three Negroes
+         <choice><orig>at-<lb break="no"/>tending</orig><reg>attending</reg></choice>
+         law classes in <placeName>Baltimore</placeName>.<lb/></p>
+
+         <p>Although the law school now had an <lb/>
+         integrated admissions policy, for the next <lb/>
+         15 years all other branches of the
+         <choice><orig>Uni-<lb break="no"/>versity</orig><reg>University</reg></choice>
+         remained segregated. In 1946 and <lb/>
+         again in 1949, the School of Pharmacy <lb/>
+         denied admission to Negro applicants. <lb/>
+         Several Negroes applying to
+         <choice><orig>under-<lb break="no"/>graduate</orig><reg>undergraduate</reg></choice>
+         classes in <placeName>College Park</placeName> were <lb/>
+         also refused enrollment.<lb/></p>
+
+        <p>The University's admissions policy <lb/>
+        was clearly bi-racial: Negro profes- <cb n= "2"/>
+
+
+         sional and graduate students were
+         <choice><orig>re-<lb break="no"/>ferred</orig><reg>referred</reg></choice>
+         to out-of-state institutions on <lb/>
+         scholarship; and undergraduate
+         <choice><orig>ap-<lb break="no"/>plicants</orig><reg>applicants</reg></choice>
+         were rejected and steered
+         <choice><orig>to-<lb break="no"/>ward</orig><reg>toward</reg></choice>
+         <orgName>Morgan State</orgName> and <orgName>Princess Anne</orgName> <lb/>
+         Colleges. </p>
+
+         <p><title><orgName>Princess Anne</orgName> embodied</title></p>
+
+         <p><orgName>Morgan</orgName> and <orgName>Princess Anne</orgName> were two <lb/>
+         state-owned Negro institutions. <orgName>Morgan</orgName> <lb/>
+         operates apart from the University. <lb/>
+         <orgName>Princess Ann</orgName> was incorporated into the <lb/>
+         University in 1935 to comply with a
+         <choice><orig>sec-<lb break="no"/>tion</orig><reg>section</reg></choice>
+         on Negro education in the <orgName>Land Grant <lb/>
+         College</orgName>. (The Morrill Act.)</p>
+
+         <p>This statute required that a share of <lb/>
+         land-grant allocations go to Negroes. <lb/>
+         By both annexing and recognizing
+         <orgName><choice><orig>Prin-<lb break="no"/>cess</orig><reg>Princess</reg></choice>
+         Anne</orgName> as a land-grant college for <lb/>
+         colored students, the University could <lb/>
+         continue to receive Federal funds granted <lb/>
+         under the act.</p>
+
+         <p><title>Negro institution ignored</title></p>
+
+         <p>With <orgName>Princess Anne</orgName> a port of the
+         <choice><orig>Uni-<lb break="no"/>versity</orig><reg>University</reg></choice>
+         , a special fiscal policy was
+         <choice><orig>de-<lb break="no"/>vised</orig><reg>devised</reg></choice>
+          for the <orgName>Eastern Shore college</orgName>. <lb/>
+         Money was to be distributed
+         <choice><orig>proportion-<lb break="no"/>ately</orig><reg>proportionately</reg></choice>
+         , on the basis of state population, <lb/>
+         between the white and Negro branches of <lb/>
+         the school. Initially, $210,000 was poured <lb/>
+         into <orgName>Princess Anne</orgName>. Over the next decade <lb/>
+         however, the Negro institution was more or less ignored.<lb/></p>
+
+         <p>In 1947 an investigation of <orgName>Princess <lb/>
+         Anne</orgName> was released by the <orgName>Marbury
+         <choice><orig>Com-<lb break="no"/>mission</orig><reg>Commision</reg></choice></orgName>
+         . In its final report, the Com- <cb n= "3"/>
+
+
+         mission described the institution as a <lb/>
+         "Jim-Crow school." Plumbing was
+         <choice><orig>de-<lb break="no"/>ficient</orig><reg>deficient</reg></choice>
+         , dormitories inadequate and many <lb/>
+         buildings were of "indefinite origin." <lb/>
+         Academically, the institution was only a <lb/>
+         shadow of a college; it was unaccredited, <lb/>
+         its faculty was small, its enrollment had <lb/>
+         never surpassed 159 and half of the
+         <choice><orig>stu-<lb break="no"/>dent</orig><reg>student</reg></choice>
+         body came from out of state.<lb/></p>
+
+         <p>The Commission concluded that
+         <orgName><choice><orig>Prin-<lb break="no"/>cess</orig><reg>Princess</reg></choice>
+         Anne</orgName> had proved unsuccessful as a <lb/>
+         Negro institution. It was recommended <lb/>
+         that <orgName>Morgan State College</orgName>, the accredited <lb/>
+         Negro school in <placeName>Baltimore</placeName>, assume
+         <choice><orig>con-<lb break="no"/>trol</orig><reg>control</reg></choice>
+         of <orgName>Princess Anne</orgName>. <orgName>Morgan State</orgName>, the <lb/>
+         Commission felt, had greater resources <lb/>
+         and its location would attract more Negro <lb/>
+         undergraduates than the <orgName>Somerset County <lb/>
+         school</orgName> had.</p>
+
+         <p><title><persName>Byrd</persName> opposed to change</title></p>
+
+         <p>This recommendation was received <lb/>
+         like a bomb by University President <lb/>
+         <persName><surname>Byrd</surname></persName>. A two-year fight began between <lb/>
+         <persName><surname>Byrd</surname></persName>, the <orgName>State Legislature</orgName> and the
+         com- munity
+         . <persName><surname>Byrd</surname></persName> wanted to keep <orgName>Princess <lb/>
+         Anne</orgName> in his domain. He made sweeping <lb/>
+         promises to the Negro populace
+         concern- ing
+         the potential of <orgName>rincess Anne</orgName>. He <lb/>
+         proposed to the legislature a four million <lb/>
+         dollar appropriation to rebuild and
+         re- vitalize
+         the <orgName full="abb">Eastern Shore</orgName> facilities.<lb/></p>
+
+         <p>At hearings, <persName><surname>Byrd</surname></persName>'s opponents noted <lb/>
+         that the University had incorporated <lb/>
+         <orgName>Princess Anne</orgName> in 1936 but had "failed <lb/>
+         to perform its duty." A Baltimore Sun <cb n= "4"/></p>
+       </div>
+
+
+         <div><p>editorial called Princess Anne "a <lb/>
+         kind of Cinderella to the Univer- <lb/>
+         sity." Byrd's effort to sustain <lb/>
+         the institution, stated the Sun, <lb/>
+         was an effort to stop "a threat <lb/>
+         to part of his domain, not a sin- <lb/>
+         cere effort for the welfare of the <lb/>
+         Negro community. Furthermore, <lb/>
+         Byrd's move to pour four million <lb/>
+         dollars into the college was a <lb/>
+         plan to "so deeply commit the <lb/>
+         State "to the development of Prin- <lb/>
+         cess Anne, that there could be no <lb/>
+         withdrawal.</p>
+
+         <p>Despite oratory, petitions, <lb/>
+         hearings and editorials in op- <lb/>
+         position to Byrd, the president's <lb/>
+         wheeling and dealing in Annapo- <lb/>
+         lis brought victory to his propos- <lb/>
+         al. In 1949 the Legislature appro- <lb/>
+         priated $300,000 to the Negro <lb/>
+         institution, indicating con- <lb/>
+         fidence in Byrd's continued <lb/>
+         administration of Princess Anne. <lb/>
+         With this and subsequent appro- <lb/>
+         priations, Byrd slowly augmented
+           <cb n= "5"/>
+
+
+         Princess Anne-'s faculty and fa- <lb/>
+         cilities.</p>
+
+         <p>While the Princess Anne issue <lb/>
+         was debated, the University's <lb/>
+         "separate but equal, bi-racial <lb/>
+         philosophy pervaded its dealings. <lb/>
+         In 1947, a Negro Air Force <lb/>
+         veteran, Major Wilmore B. <lb/>
+         Leonard, had registered for <lb/>
+         graduate study in College Park. <lb/>
+         At first he was "provisionally" <lb/>
+         accepted. Later, through, he <lb/>
+         was rejected.</p>
+
+         <p><title>Rejected due to grades</title></p>
+
+         <p>Protesting, the veteran was <lb/>
+         told that the University was re- <lb/>
+         jecting all students accepted <lb/>
+         "provisionally" that year. (Pro- <lb/>
+         visional status indicated that oth- <lb/>
+         er applicants had better academic <lb/>
+         records.) Due to overcrowding <lb/>
+         in the school, students accepted <lb/>
+         on provisional bases were, at <lb/>
+         later dates, all rejected.</p>
+
+         <p>Racial Issues at the graduate
+         <cb n= "6"/>
+
+
+         level lay dormant for some time <lb/>
+         after Leonard's inquiry. The <lb/>
+         following summer, however, <lb/>
+         found Byrd facing NAACP picket <lb/>
+         lines in the newspapers.</p>
+
+         <p><title>Summer courses offered</title></p>
+
+         <p>In an effort to keep College <lb/>
+         Park white, the University was <lb/>
+         offering summer courses for <lb/>
+         Negro teachers at Douglas High <lb/>
+         School in Baltimore. The <lb/>
+         NAACP, angered that the Univer- <lb/>
+         sity was equating Douglas's fa- <lb/>
+         cilities with those at College <lb/>
+         Park, organized a picket line on <lb/>
+         registration day.</p>
+
+         <p>Only two students dared to <lb/>
+         cross the line drawn by hundreds <lb/>
+         of placard-carrying marchers. <lb/>
+         The students, both Negro teach- <lb/>
+         ers, registered and took summer <lb/>
+         courses.</p>
+
+         <p>All summer long a verbal bat- <lb/>
+         tle was waged between the NAACP <lb/>
+         the Afro-American Newspaper <lb/>
+         and Byrd. The Afro-American-- <lb/>
+         which parenthetically noted that <lb/>
+         Dr. Byrd's title referred to an <lb/>
+         honorary doctorate degree in <lb/>
+         philosophy--maintained that the <lb/>
+         Douglas classes were "ludi- <lb/>
+         crous." For two students, the <lb/>
+         University was employing three <lb/>
+         teachers and one librarian.</p>
+
+         <p><title>'Controlled segregation'</title></p>
+
+         <p>Unabashed, Byrd replied by <lb/>
+         emphasizing that the State of <lb/>
+         Maryland's education policy was <lb/>
+         one of "controlled segregation." <lb/>
+         Following the hectic summer <lb/>
+         session, the NAACP found itself <lb/>
+         defending Martin B. Booth, a <lb/>
+         Negro applicant to the Maryland <lb/>
+         School of Pharmacy. Booth had <lb/>
+         applied to the school in May of <lb/>
+         1948 and had been rejected on <lb/>
+         the grounds that "the school has <lb/>
+         filled its quota." However, on <lb/>
+         August 14 of that same year, <lb/>
+         Booth reapplied for admission <lb/>
+         the next, or any succeeding se- <lb/>
+         mester.</p>
+         <cb n= "7"/>
+
+
+         <p>This time the University re- <lb/>
+         fused to pass on the Negro's ap- <lb/>
+         plication. Demanding some ac- <lb/>
+         tion, Booth went to court, claiming <lb/>
+         that the original "rejection was <lb/>
+         based not on the time of his ap- <lb/>
+         plication, but because of his race <lb/>
+         or color."</p>
+
+         <p>In newspaper statements, Byrd <lb/>
+         responded to Booth's accusation. <lb/>
+         "We haven't turned down anybody <lb/>
+         in any school on the basis of <lb/>
+         his being a Negro," he said, explain- <lb/>
+         ing that the University refers <lb/>
+         Negroes to Negro institutions.</p>
+
+         <p><title>Lost in litigation</title></p>
+
+         <p>Booth's case was apparently <lb/>
+         lost somewhere on the litigation <lb/>
+         ladder. The only further public <lb/>
+         record on the matter is a nota- <lb/>
+         tion in the Board of Regents <lb/>
+         minutes of Sept. 24, 1948. It was <lb/>
+         stated that "future actions" on <lb/>
+         Booth's application would be "on <lb/>
+         the advice of the (State's) attorney <lb/>
+         general."</p>
+
+         <p>The summer of 1949 abounded <lb/>
+         in suits brought against the Uni- <lb/>
+         versity by Negro applicants. One <lb/>
+         applicant to the School of Phar- <lb/>
+         macy and two for the School of <lb/>
+         Dentistry alleged that race was <lb/>
+         the sole reason for their rejec- <lb/>
+         tions. A home economics student <lb/>
+         and an engineering undergraduate <lb/>
+         were refused admission to under- <lb/>
+         graduate studies at College Park.</p>
+
+         <p>A total of six suits were brought <lb/>
+         against the University, and the <lb/>
+         Board of Regents replied to them <lb/>
+         by stating that the University had <lb/>
+         a "general policy of segregation. <lb/>
+         Separate but equal facilities" <lb/>
+         were provided for Negro appli- <lb/>
+         cants who were state citizens.</p>
+
+         <p> <title>Out-of-state scholarships</title></p>
+
+         <p>In reply to the court order of<lb/>
+         mandamus, the University of- <lb/>
+         fered the six Negroes admis- <lb/>
+         sion into Morgan State or Prin- <lb/>
+         cess Anne, or scholarships to <lb/>
+         out-of-state schools.</p>
+
+         <p>Provisions for out-of-state <lb/>
+         scholarships were arranged by <lb/>
+         the University in conjunction with <lb/>
+         the Southern Regional Compact. <lb/>
+         This compact was composed of <lb/>
+         14 Southern states which pooled <lb/>
+         their educational facilities. When <lb/>
+         certain programs were lacking in <lb/>
+         one state, resources from another <lb/>
+         state could be used.</p>
+
+         <p>Up until 1949, the Regional <lb/>
+         Contracts had been, in total, <lb/>
+         awarded to 18 Negroes and 217 <lb/>
+         whites. The Compact was not <lb/>
+         viewed as a means for thwarting <lb/>
+         integration.</p>
+
+         <p>In 1949, however, local groups <lb/>
+         in Maryland charged that the Uni- <lb/>
+         versity' by settling mandamus <lb/>
+         suits with out-of-state scholar- <lb/>
+         ship offers' was using the region- <lb/>
+         al compact to evade equal educa- <lb/>
+         tion statutes.</p>
+
+         <p><title>Scholarship refused</title></p>
+
+         <p>Eighteen year old Esther Mc- <lb/>
+         Cready, who had applied to the <lb/>
+         Maryland School of Nursing, re- <lb/>
+         fused a scholarship to MeHarry <lb/>
+         Medical College in Nashville, <lb/>
+         Tenn. Miss McCready claimed <lb/>
+         that she could not be required to <lb/>
+         go out of her state to receive <lb/>
+         education available at home. Ask- <lb/>
+         ing her to leave the state due to <lb/>
+         her race was denying her con- <lb/>
+         stitutional rights under the Four- <lb/>
+         teenth Amendment.</p>
+
+         <p>The University, however, felt <lb/>
+         it had "discharged its constitu- <lb/>
+         tional obligation to afford equal
+         <cb n= "8"/>
+
+         education opportunities* by of- <lb/>
+         fering the applicant a scholarship <lb/>
+         to MeHarry. In court it was even <lb/>
+         brought out that MeHarry was a <lb/>
+         school whose facilities were "su- <lb/>
+         perior" to Maryland's.</p>
+
+         <p>A lower court upheld the con- <lb/>
+         tention of the University. But the <lb/>
+         Maryland Circuit Court of Ap- <lb/>
+         peals reversed this decision. <lb/>
+         Miss McCready's rights had in- <lb/>
+         deed been denied.</p>
+
+         <p>Referring to State of Missouri <lb/>
+         ex-rel. Gaines v. Canada, the <lb/>
+         Court held that a scholarship to <lb/>
+         MeHarry "did not relieve the <lb/>
+         state of its responsibility to pro- <lb/>
+         vide equal opportunities for Ne- <lb/>
+         groes within the boundaries of <lb/>
+         the State. By no rational means <lb/>
+         could the State extend its boun- <lb/>
+         daries to Nashville, Tenn.</p>
+
+         <p><title>Court orders admission</title></p>
+
+          <p>The Court further held that the <lb/>
+          "regional compact cannot be used <lb/>
+          to maintain a segregated system <lb/>
+          of higher education." Miss Mc-<lb/>
+          Cready's admission to the Mary- <lb/>
+          land School of Nursing was or- <lb/>
+          dered.</p>
+
+          <p>Still fighting for its segregation <lb/>
+          policy, the University appealed <lb/>
+          this decision to the Supreme <lb/>
+          Court. The High Court, however, <lb/>
+          denied certiori, and the issue was <lb/>
+          settled. Miss McCready became <lb/>
+          the first Negro to attend the <lb/>
+          Nursing School.</p>
+
+          <p>The implications of the case <lb/>
+          were clear. The University would <lb/>
+          have to make its Negro Institu- <lb/>
+          tions parallel to its white insti- <lb/>
+          tutions or begin admitting Ne- <lb/>
+          groes to College Park and to all <lb/>
+          Baltimore professional schools.</p>
+
+          <p>Byrd and the Legislature sup- <lb/>
+          ported the former alternative, <lb/>
+          i.e. a "dual school system" over <lb/>
+          an integrated one. For several <lb/>
+          years, new programs were in- <lb/>
+          stituted and more funds were <lb/>
+          poured into Princess Anne. How- <lb/>
+          ever, court litigations' were now <lb/>
+          travelling at a pace faster than <lb/>
+          the State's educational budget.</p>
+
+          <p><title>College Park tested</title></p>
+
+          <p>In 1951 Hiram T. Whittle, a 20 <lb/>
+          year old Negro who wished to <lb/>
+          transfer from Morgan State into <lb/>
+          the College Park engineering <lb/>
+          program, received a writ of <lb/>
+          mandamus admitting him to the <lb/>
+          University. The State's attorney <lb/>
+          general advised the Board of Re- <lb/>
+          gents to accept Whittle since <lb/>
+          College Park housed the only <lb/>
+          state supported engineering fa- <lb/>
+          cilities In Maryland.</p>
+
+          <p>Whittle thereby set several <lb/>
+          precedents. He was the first <lb/>
+          Negro admitted to the University <lb/>
+          without a court battle--though he <lb/>
+          did follow in the wake of the Mc- <lb/>
+          Cready storm. He was also the <lb/>
+          first Negro to attend classes in <lb/>
+          the College Park campus and to <lb/>
+          live in a white dormitory.</p>
+
+          <p>At this same time, another <lb/>
+          Negro student was pushing his <lb/>
+          way through the Courts. Parren <lb/>
+          J. Mitchell, a graduate student <lb/>
+          in sociology, had applied to the <lb/>
+          University in August of 1950. <lb/>
+          Mitchell was accepted with the <lb/>
+          tacit understanding that he attend <lb/>
+          classes in Baltimore--not in Col- <lb/>
+          lege Park.</p>
+         <cb n= "9"/>
+         </div>
+      </body>
+  </text>
+</TEI>
